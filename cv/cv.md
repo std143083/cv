@@ -1,7 +1,7 @@
 # ΒΙΟΓΡΑΦΙΚΟ ΣΗΜΕΙΩΜΑ
 
 **Προσωπικά στοιχεία**
-![](img/photo.jpg =100x)
+![](img/photo.jpg){: width=150 height=100 style="float:right; padding:16px"}
 
 **Ακαδημαϊκές Σπουδές**
 
