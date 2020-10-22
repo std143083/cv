@@ -18,3 +18,11 @@
 > Φέτος έχω τις ΣΔΥ60 και ΣΔΥ61.
 > Ελπίζω του χρόνου να έχω μόνο την διπλωματική.
 
+
+---
+title: "Habits"
+output:
+  html_document:
+    toc: true
+    number_sections: true
+---
