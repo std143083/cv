@@ -11,6 +11,4 @@
 | zebra stripes | are neat      |    $1 |
 
 > Πέρυσι είχα τις ΣΔΥ50 και ΣΔΥ51. Φέτος έχω τις ΣΔΥ60 και ΣΔΥ61. Ελπίζω του χρόνου να έχω μόνο την διπλωματική.
-the beautiful rooms in her castle.
-> Dorothy followed her through many of
-the beautiful rooms in her castle.
+
