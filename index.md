@@ -4,9 +4,9 @@
 
 ## **Προσωπικά στοιχεία**
 
-- **First** item
-- **Second** item
-- **Third** item
+- **Τηλέφωνο** 6980203241
+- **Διεύθυνση κατοικίας** Ηράκλειο Κρήτης
+- **Email** giokonstantakis@gmail.com
 - Fourth item 
 
 
