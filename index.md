@@ -46,6 +46,7 @@
 - **Τεχνολογίες Πληροφορικής**
   - Γλώσσες προγραμματισμού (C, Java, C++,Python, Swift)
   - Web  Development (HTML(5), CSS(3), PHP, Bootstrap Framework)
+  - CMS & MVC Frameworks (WordPress, Joomla, Drupal, Laravel)
   - Mobile Development (Ionic Framework, Android SDK, Cordova, React Native)
   -	Databases (MySQL, MS SQL Server, Oracle, MongoDB)
   -	Άλλα (Microsoft (Visual Studio, Office, SharePoint), Matlab,  MySQL Workbench CE, NetBeans, Eclipse,  Photoshop, Enterprice Architect)
