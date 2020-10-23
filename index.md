@@ -4,9 +4,9 @@
 
 ## **Προσωπικά στοιχεία**
 
-- First item
-- Second item
-- Third item
+- **First** item
+- **Second** item
+- **Third** item
 - Fourth item 
 
 
