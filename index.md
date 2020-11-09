@@ -48,4 +48,15 @@
   - Mobile Development (Ionic Framework, Android SDK, Cordova, React Native)
   -	Databases (MySQL, MS SQL Server, Oracle, MongoDB)
   -	Άλλα (Microsoft (Visual Studio, Office, SharePoint), Matlab,  MySQL Workbench CE, NetBeans, Eclipse,  Photoshop, Enterprice Architect)
+  
+<div class="panel panel-info">
+**Note**
+{: .panel-heading}
+<div class="panel-body">
+
+NOTE DESCRIPTION
+
+</div>
+</div>
+
 
