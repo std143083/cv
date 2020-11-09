@@ -6,7 +6,7 @@
 
 - **Τηλέφωνο** 6980203241
 - **Πόλη** Ηράκλειο Κρήτης
-- **Email** giokonstantakis@gmail.com
+- **Email** [giokonstantakis@gmail.com](mailto:giokonstantakis@gmail.com)
 
 
 ## **Ακαδημαϊκές Σπουδές**
